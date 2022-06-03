@@ -1,0 +1,139 @@
+[2022-05-26 23:09:08] [INFO ] [TestLog:8] Empezamos nuestro metodo MAIN
+[2022-05-26 23:09:08] [ERROR] [TestLog:13] Error por dividir por cero 
+java.lang.ArithmeticException: / by zero
+	at EjemploLogger.TestLog.main(TestLog.java:11)
+[2022-05-26 23:09:08] [WARN ] [TestLog:15] Advertencia el metodo MAIN esta por finalizar
+[2022-05-26 23:09:08] [DEBUG] [TestLog:16] Esto va a mostrarse solo si el infoLogger esta en DEBUG
+[2022-05-26 23:09:08] [INFO ] [TestLog:17] Finalizamos el thread MAIN
+[2022-05-26 23:15:33] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:15:33] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:15:33] [ERROR] [Main:18] La lista es igual a 0
+[2022-05-26 23:16:01] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:16:01] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:16:01] [DEBUG] [ListaPromedio:18] La longitud de la lista es mayor 10
+[2022-05-26 23:16:01] [ERROR] [Main:18] La lista es igual a 0
+[2022-05-26 23:18:34] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:18:34] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:18:34] [DEBUG] [ListaPromedio:18] La longitud de la lista es mayor 10
+[2022-05-26 23:18:34] [ERROR] [Main:19] La lista es igual a 0
+[2022-05-26 23:20:25] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:20:25] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:20:25] [DEBUG] [ListaPromedio:18] La longitud de la lista es mayor 10
+[2022-05-26 23:20:25] [ERROR] [Main:19] La lista es igual a 0
+[2022-05-26 23:20:48] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:20:48] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:20:48] [DEBUG] [ListaPromedio:18] La longitud de la lista es mayor 10
+[2022-05-26 23:20:48] [ERROR] [Main:19] La lista es igual a 0
+[2022-05-26 23:22:23] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:22:23] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:22:23] [DEBUG] [ListaPromedio:18] La longitud de la lista es mayor 10
+[2022-05-26 23:22:23] [ERROR] [Main:19] La lista es igual a 0
+[2022-05-26 23:24:50] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:24:50] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:24:50] [DEBUG] [ListaPromedio:18] La longitud de la lista es mayor 10
+[2022-05-26 23:24:50] [ERROR] [Main:19] La lista es igual a 0
+[2022-05-26 23:30:09] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:30:09] [DEBUG] [ListaPromedio:25] [1, 2, 3, 4, 5, 6, 7, 8]
+[2022-05-26 23:30:09] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:30:09] [DEBUG] [ListaPromedio:18] La longitud de la lista es mayor 10
+[2022-05-26 23:30:09] [ERROR] [Main:19] La lista es igual a 0
+[2022-05-26 23:30:29] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:30:29] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:30:29] [DEBUG] [ListaPromedio:18] La longitud de la lista es mayor 10
+[2022-05-26 23:30:29] [ERROR] [Main:20] La lista es igual a 0
+[2022-05-26 23:30:45] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:30:45] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:30:45] [DEBUG] [ListaPromedio:18] La longitud de la lista es mayor 10
+[2022-05-26 23:30:45] [DEBUG] [ListaPromedio:25] [1, 2, 3, 4, 5, 6, 7, 8]
+[2022-05-26 23:31:04] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:31:04] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:31:04] [DEBUG] [ListaPromedio:18] La longitud de la lista es mayor 10
+[2022-05-26 23:31:04] [INFO ] [ListaPromedio:25] [1, 2, 3, 4, 5, 6, 7, 8]
+[2022-05-26 23:33:32] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:33:32] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:33:32] [DEBUG] [ListaPromedio:18] La longitud de la lista es mayor 10
+[2022-05-26 23:33:32] [INFO ] [ListaPromedio:30] 36
+[2022-05-26 23:35:07] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:35:07] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:35:07] [DEBUG] [ListaPromedio:18] La longitud de la lista es mayor 10
+[2022-05-26 23:35:07] [INFO ] [ListaPromedio:30] 36
+[2022-05-26 23:35:07] [INFO ] [ListaPromedio:37] 4.0
+[2022-05-26 23:35:18] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:35:18] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:35:18] [DEBUG] [ListaPromedio:18] La longitud de la lista es mayor 10
+[2022-05-26 23:35:18] [INFO ] [ListaPromedio:30] 50
+[2022-05-26 23:35:18] [INFO ] [ListaPromedio:37] 5.0
+[2022-05-26 23:35:27] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:35:27] [DEBUG] [ListaPromedio:15] La longitud de la lista es mayor 5
+[2022-05-26 23:35:27] [DEBUG] [ListaPromedio:18] La longitud de la lista es mayor 10
+[2022-05-26 23:35:27] [INFO ] [ListaPromedio:30] 49
+[2022-05-26 23:35:27] [INFO ] [ListaPromedio:37] 5.0
+[2022-05-29 15:09:53] [ERROR] [Main:58] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-212]
+[2022-05-29 15:09:53] [INFO ] [Main:62] Se cierra conexión a DB
+[2022-05-29 15:09:53] [ERROR] [Main:65] java.lang.NullPointerException
+[2022-05-29 15:10:10] [ERROR] [Main:58] org.h2.jdbc.JdbcSQLNonTransientException: Metodo permitido unicamente en un query. Use execute ó executeUpdate en lugar de executeQuery
+Method is only allowed for a query. Use execute or executeUpdate instead of executeQuery; SQL statement:
+DROP TABLE IF EXISTS FIGURAS [90002-212]
+[2022-05-29 15:10:10] [INFO ] [Main:62] Se cierra conexión a DB
+[2022-05-29 15:11:17] [ERROR] [Main:58] org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE FIGURAS (ID INT PRIMARY KEY, TIPO varchar(20) NOT NULL, COLOR varchar(20) NOT NULL, [*])"; se esperaba "identifier"
+Syntax error in SQL statement "CREATE TABLE FIGURAS (ID INT PRIMARY KEY, TIPO varchar(20) NOT NULL, COLOR varchar(20) NOT NULL, [*])"; expected "identifier"; SQL statement:
+CREATE TABLE FIGURAS (ID INT PRIMARY KEY, TIPO varchar(20) NOT NULL, COLOR varchar(20) NOT NULL, ) [42001-212]
+[2022-05-29 15:11:17] [INFO ] [Main:62] Se cierra conexión a DB
+[2022-05-29 15:12:08] [ERROR] [Main:58] org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE FIGURAS (ID INT PRIMARY KEY, TIPO varchar(20) NOT NULL, COLOR varchar(20) NOT NULL, [*])"; se esperaba "identifier"
+Syntax error in SQL statement "CREATE TABLE FIGURAS (ID INT PRIMARY KEY, TIPO varchar(20) NOT NULL, COLOR varchar(20) NOT NULL, [*])"; expected "identifier"; SQL statement:
+CREATE TABLE FIGURAS (ID INT PRIMARY KEY, TIPO varchar(20) NOT NULL, COLOR varchar(20) NOT NULL, ) [42001-212]
+[2022-05-29 15:12:08] [INFO ] [Main:62] Se cierra conexión a DB
+[2022-05-29 15:12:54] [ERROR] [Main:58] org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "CIRCULO" no encontrada
+Column "CIRCULO" not found; SQL statement:
+INSERT INTO FIGURAS (ID, TIPO, COLOR) VALUES (1, circulo, rojo) [42122-212]
+[2022-05-29 15:12:54] [INFO ] [Main:62] Se cierra conexión a DB
+[2022-05-29 15:17:22] [INFO ] [Main:62] Se cierra conexión a DB
+[2022-05-29 16:43:46] [INFO ] [Main:62] Se cierra conexión a DB
+[2022-05-29 16:50:02] [ERROR] [Main:57] org.h2.jdbc.JdbcSQLNonTransientException: Tipo de dato desconocido : "TINYINTNACIONALIDAD"
+Unknown data type: "TINYINTNACIONALIDAD"; SQL statement:
+CREATE TABLE EMPLEADOS (ID INT PRIMARY KEY, NOMBRE varchar(25) NOT NULL, EDAD TINYINTNACIONALIDAD VARCHAR(25)ALTURA FLOAT) [50004-212]
+[2022-05-29 16:50:02] [INFO ] [Main:61] Se cierra conexión a DB
+[2022-05-29 16:50:14] [ERROR] [Main:57] org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE EMPLEADOS (ID INT PRIMARY KEY, NOMBRE varchar(25) NOT NULL, EDAD TINYINT,NACIONALIDAD VARCHAR(25)[*]ALTURA FLOAT)"; se esperaba "ARRAY, INVISIBLE, VISIBLE, NOT, NULL, AS, DEFAULT, GENERATED, ON, NOT, NULL, AUTO_INCREMENT, DEFAULT, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY, UNIQUE, NOT, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"
+Syntax error in SQL statement "CREATE TABLE EMPLEADOS (ID INT PRIMARY KEY, NOMBRE varchar(25) NOT NULL, EDAD TINYINT,NACIONALIDAD VARCHAR(25)[*]ALTURA FLOAT)"; expected "ARRAY, INVISIBLE, VISIBLE, NOT, NULL, AS, DEFAULT, GENERATED, ON, NOT, NULL, AUTO_INCREMENT, DEFAULT, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY, UNIQUE, NOT, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"; SQL statement:
+CREATE TABLE EMPLEADOS (ID INT PRIMARY KEY, NOMBRE varchar(25) NOT NULL, EDAD TINYINT,NACIONALIDAD VARCHAR(25)ALTURA FLOAT) [42001-212]
+[2022-05-29 16:50:14] [INFO ] [Main:61] Se cierra conexión a DB
+[2022-05-29 16:50:23] [INFO ] [Main:61] Se cierra conexión a DB
+[2022-05-29 16:52:38] [INFO ] [Main:57] Modificando nacionalidad de Leia
+[2022-05-29 16:52:38] [ERROR] [Main:61] org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "NACIONALIDAD" no encontrada
+Table "NACIONALIDAD" not found; SQL statement:
+UPDATE NACIONALIDAD='Perruna' FROM EMPLEADOS WHERE NOMBRE='Leia' [42102-212]
+[2022-05-29 16:52:38] [INFO ] [Main:65] Se cierra conexión a DB
+[2022-05-29 16:53:44] [INFO ] [Main:57] Modificando nacionalidad de Leia
+[2022-05-29 16:53:44] [ERROR] [Main:61] org.h2.jdbc.JdbcSQLNonTransientException: Metodo permitido unicamente en un query. Use execute ó executeUpdate en lugar de executeQuery
+Method is only allowed for a query. Use execute or executeUpdate instead of executeQuery; SQL statement:
+UPDATE EMPLEADOS SET NACIONALIDAD='Perruna' WHERE NOMBRE='Leia' [90002-212]
+[2022-05-29 16:53:44] [INFO ] [Main:65] Se cierra conexión a DB
+[2022-05-29 16:53:59] [INFO ] [Main:57] Modificando nacionalidad de Leia
+[2022-05-29 16:53:59] [INFO ] [Main:65] Se cierra conexión a DB
+[2022-05-29 16:54:43] [INFO ] [Main:57] Modificando nacionalidad de Leia
+[2022-05-29 16:54:43] [INFO ] [Main:65] Se cierra conexión a DB
+[2022-05-29 16:55:24] [INFO ] [Main:57] Modificando nacionalidad de Leia
+[2022-05-29 16:55:24] [INFO ] [Main:65] Se cierra conexión a DB
+[2022-05-29 16:57:31] [INFO ] [Main:60] Modificando nacionalidad de Leia
+[2022-05-29 16:57:31] [INFO ] [Main:69] Se cierra conexión a DB
+[2022-05-29 17:01:41] [INFO ] [Main:62] Modificando nacionalidad de Leia
+[2022-05-29 17:01:41] [INFO ] [Main:76] Se cierra conexión a DB
+[2022-05-29 17:02:22] [INFO ] [Main:62] Modificando nacionalidad de Leia
+[2022-05-29 17:02:22] [INFO ] [Main:66] Borrando ID 2
+[2022-05-29 17:02:22] [INFO ] [Main:69] Borrando Leia
+[2022-05-29 17:02:22] [INFO ] [Main:78] Se cierra conexión a DB
+[2022-05-31 21:18:26] [DEBUG] [MedicamentoDaoH2:16] Registrando un nuevo medicamento :Medicamento: id=null, nombre= Ibuprofeno, laboratorio= lab123, cantidad= 5, precio= 200.0
+[2022-05-31 21:21:19] [DEBUG] [MedicamentoDaoH2:16] Registrando un nuevo medicamento :Medicamento: id=1, nombre= Ibuprofeno, laboratorio= lab123, cantidad= 5, precio= 200.0
+[2022-05-31 21:21:50] [DEBUG] [MedicamentoDaoH2:16] Registrando un nuevo medicamento :Medicamento: id=null, nombre= Ibuprofeno, laboratorio= lab123, cantidad= 5, precio= 200.0
+[2022-05-31 21:22:24] [DEBUG] [MedicamentoDaoH2:16] Registrando un nuevo medicamento :Medicamento: id=null, nombre= Ibuprofeno, laboratorio= lab123, cantidad= 5, precio= 200.0
+[2022-05-31 21:29:01] [DEBUG] [MedicamentoDaoH2:16] Registrando un nuevo medicamento: Medicamento: id=null, nombre= Ibuprofeno, laboratorio= lab123, cantidad= 5, precio= 200.0
+[2022-05-31 21:29:01] [DEBUG] [MedicamentoDaoH2:44] Buscando un medicamento con id:1
+[2022-05-31 21:30:19] [DEBUG] [MedicamentoDaoH2:16] Registrando un nuevo medicamento: Medicamento: id=null, nombre= Ibuprofeno, laboratorio= lab123, cantidad= 5, precio= 200.0
+[2022-05-31 21:30:19] [DEBUG] [MedicamentoDaoH2:44] Buscando un medicamento con id:1
+[2022-05-31 21:30:19] [INFO ] [MedicamentoDaoH2:67] Medicamento: id=1, nombre= Ibuprofeno, laboratorio= lab123, cantidad= 5, precio= 200.0
+[2022-05-31 21:44:21] [DEBUG] [MedicamentoDaoH2:16] Registrando un nuevo medicamento: Medicamento: id=null, nombre= Ibuprofeno, laboratorio= lab123, cantidad= 5, precio= 200.0
+[2022-05-31 21:44:21] [DEBUG] [MedicamentoDaoH2:44] Buscando un medicamento con id:1
+[2022-05-31 21:44:21] [INFO ] [MedicamentoDaoH2:67] Medicamento: id=1, nombre= Ibuprofeno, laboratorio= lab123, cantidad= 5, precio= 200.0
+[2022-05-31 21:44:21] [DEBUG] [MedicamentoDaoH2:82] Buscando un medicamento con nombre:Ibuprofeno
+[2022-05-31 21:44:21] [INFO ] [MedicamentoDaoH2:105] Medicamento: id=1, nombre= Ibuprofeno, laboratorio= lab123, cantidad= 5, precio= 200.0
